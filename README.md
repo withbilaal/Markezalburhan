@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# Markezalburhan
+
+A website for the donation of Markez-Al-Burhan karachi.
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
