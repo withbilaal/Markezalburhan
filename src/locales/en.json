@@ -1,0 +1,372 @@
+{
+  "common": {
+    "orgName": "Markaz Alburhan",
+    "orgNameUrdu": "مرکز البرہان",
+    "phone": "+92 340 2439670",
+    "address": "Sector 79, Taiser Town, Karachi",
+    "addressUrdu": "مرکز البرہان، سیکٹر 79، تیسر ٹاؤن، کراچی",
+    "managerRole": "Masool Muntazima Karachi",
+    "managerName": "Muhammad Muneeb Khan",
+    "managerPhone": "0345 3073557",
+    "whatsapp": "WhatsApp",
+    "donateNow": "Donate Now",
+    "contactOnWhatsapp": "Contact on WhatsApp",
+    "chatOnWhatsapp": "Chat on WhatsApp",
+    "languageToggle": "EN / UR",
+    "switchToUrdu": "Switch to Urdu",
+    "switchToEnglish": "Switch to English",
+    "primaryNavigation": "Primary navigation",
+    "mobileNavigation": "Mobile navigation",
+    "menu": "Menu",
+    "homeAria": "Markaz Alburhan home",
+    "whatsappAria": "Contact Markaz Alburhan on WhatsApp"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "events": "Events",
+    "projects": "Projects",
+    "contact": "Contact",
+    "donation": "Donation"
+  },
+  "footer": {
+    "summary": "Markaz Alburhan — A center for knowledge, dawah, worship and community service in Taiser Town, Karachi.",
+    "trust": "Project Under Alburhan International Welfare Trust",
+    "contact": "Contact",
+    "managerLine": "Masool Muntazima Karachi: {{name}} — {{phone}}",
+    "follow": "Follow",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "youtube": "YouTube",
+    "copyright": "© Markaz Alburhan. All rights reserved."
+  },
+  "meta": {
+    "home": {
+      "title": "Markaz Alburhan | زیر تعمیر مسجد البرہان",
+      "description": "Support the construction of Markaz Alburhan / Masjid Alburhan in Taiser Town, Karachi. A center for knowledge, dawah, worship and community service."
+    },
+    "about": {
+      "title": "About | Markaz Alburhan",
+      "description": "About Markaz Alburhan — a comprehensive Islamic center for worship, learning, welfare and community service in Taiser Town, Karachi."
+    },
+    "events": {
+      "title": "Events | Markaz Alburhan",
+      "description": "Spiritual gatherings, Islahi Bayans, Aitekaaf, Dopamine Detox, and educational events at Markaz Alburhan, Taiser Town, Karachi."
+    },
+    "projects": {
+      "title": "Projects | Markaz Alburhan",
+      "description": "Future-ready facilities at Markaz Alburhan: Community Kitchen, Free Medical Facility, and ongoing Masjid construction."
+    },
+    "donate": {
+      "title": "Donate | Markaz Alburhan",
+      "description": "Donate to Markaz Alburhan / Masjid Alburhan construction project."
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "A Sadaqah Jariyah Project",
+      "title": "Masjid Alburhan Under Construction",
+      "subtitle": "Taiser Town, Karachi"
+    },
+    "donation": {
+      "eyebrow": "Donate Now!",
+      "title": "Support the construction of Markaz Alburhan",
+      "description": "Support the construction of Markaz Alburhan — a center for knowledge, dawah, worship, and community service. Your contribution becomes a continuous reward (sadaqah jariyah) for as long as the masjid stands.",
+      "campaign": "Current campaign: Building the first roof of Masjid Alburhan.",
+      "unit": "1 Unit =\nPKR 3,500",
+      "benefits": [
+        "Support Bricks, Cement & Labor",
+        "Help Build Markaz Alburhan",
+        "Donate Today for a Lasting Reward"
+      ],
+      "whatsappUs": "WhatsApp Us"
+    },
+    "vision": {
+      "eyebrow": "The Vision",
+      "title": "Markaz Alburhan — The Complete Model",
+      "description": "A scale model of the completed markaz — the masjid, the six-storey madrasa and the community facilities together on one campus, in sha Allah.",
+      "imageAlt": "Scale model of the completed campus",
+      "caption": "Scale model of the completed campus."
+    },
+    "facilities": {
+      "eyebrow": "Future-Ready Facilities",
+      "title": "A complete center for the community",
+      "items": {
+        "masjid": {
+          "title": "Masjid Construction",
+          "description": "A spacious masjid where the community can pray, learn and connect.",
+          "alt": "Masjid Construction"
+        },
+        "kitchen": {
+          "title": "Community Kitchen",
+          "description": "Food support for the needy in the surrounding neighborhood.",
+          "alt": "Community Kitchen"
+        },
+        "education": {
+          "title": "Education & Dawah",
+          "description": "Quran, deeni education and dawah programs for all ages.",
+          "alt": "Education and Dawah"
+        },
+        "medical": {
+          "title": "Free Medical Facility",
+          "description": "A modern shifa khana offering free basic treatment.",
+          "status": "Place reserved — not yet operational.",
+          "alt": "Free Medical Facility"
+        }
+      }
+    },
+    "gallery": {
+      "eyebrow": "Gallery",
+      "title": "Construction Progress",
+      "viewAll": "View All Projects",
+      "items": {
+        "facade": "Masjid Alburhan — arched facade under construction",
+        "arches": "Masjid Alburhan — structure and arches taking shape",
+        "hall": "Markazi hall — congregation offering salah in the main hall",
+        "progressOne": "Construction progress",
+        "progressTwo": "Construction progress",
+        "progressThree": "Construction progress",
+        "progressFour": "Construction progress"
+      }
+    },
+    "closing": {
+      "title": "Be a part of this Sadaqah Jariyah",
+      "description": "Every brick laid is a reward that continues, in sha Allah, long after our time."
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "About",
+      "title": "About Markaz Alburhan",
+      "subtitle": "A comprehensive Islamic center for worship, learning, welfare, and community service.",
+      "imageAlt": "Scale model of the completed campus"
+    },
+    "governance": {
+      "eyebrow": "Governing Body",
+      "title": "Project Under Alburhan International Welfare Trust",
+      "description": "Markaz Alburhan is built and operated under the supervision of Alburhan International Welfare Trust — every contribution is received and utilised through the trust.",
+      "managerRole": "Masool Muntazima Karachi"
+    },
+    "intro": {
+      "eyebrow": "About Markaz Alburhan",
+      "title": "Markaz Alburhan is being designed as more than a masjid or madrasa.",
+      "description": "It is a complete community-focused Islamic center. From large prayer capacity and student facilities to free medical care, food service, and dedicated arrangements for women, every feature has been planned to make the markaz a lasting source of benefit for deen and society.",
+      "readMore": "Read More"
+    },
+    "description": {
+      "first": "Markaz Alburhan is being envisioned as a comprehensive Islamic center that brings together worship, learning, welfare, and community service under one roof. The project includes a large-scale kitchen with the capacity to prepare meals for 1,000 people, a modern shifa khana for free medical care, and a fully equipped deeni institute for students from across the country with essential living and educational facilities.",
+      "second": "The markaz is further planned as a six-storey madrasa with one basement, supported by wudu and washroom facilities for 1,200 people, a separate entrance and dedicated prayer space for women, a 6,000 sq. ft. rooftop area, and a 3,000 sq. ft. mezzanine floor. Altogether, it is designed to accommodate up to 5,000 worshippers across two floors and one basement, making it a large-scale center for salah, tarbiyah, education, and public benefit."
+    },
+    "stats": {
+      "kitchenNumber": "1,000",
+      "kitchen": "Community Kitchen for 1,000 People",
+      "worshippersNumber": "5,000",
+      "worshippers": "Capacity for up to 5,000 Worshippers",
+      "rooftopNumber": "6,000",
+      "rooftop": "Rooftop Area: 6,000 sq. ft."
+    },
+    "facilities": {
+      "eyebrow": "Facilities & Features",
+      "title": "Everything Designed for the Ummah",
+      "description": "A planned breakdown of the spaces and services that will operate inside Markaz Alburhan.",
+      "clusters": {
+        "worship": {
+          "title": "Worship & Capacity",
+          "items": {
+            "prayerHall": { "title": "Masjid & Prayer Hall", "description": "A spacious, well-lit prayer hall designed as the spiritual heart of the markaz." },
+            "basement": { "title": "Basement Facility", "description": "A full basement floor for additional prayer capacity and operational support." },
+            "wudu": { "title": "Wudu & Washroom Facilities for 1,200", "description": "Capacity-grade wudu khana and washroom facilities accommodating 1,200 people." },
+            "women": { "title": "Separate Women’s Entrance & Prayer Space", "description": "A dedicated entrance and private prayer area planned for our sisters in deen." },
+            "rooftop": { "title": "Rooftop Area: 6,000 sq. ft.", "description": "A 6,000 sq. ft. rooftop area for overflow prayers, gatherings and Ramadan events." },
+            "mezzanine": { "title": "Mezzanine Floor: 3,000 sq. ft.", "description": "A 3,000 sq. ft. mezzanine floor expanding usable capacity for classes and prayer." },
+            "capacity": { "title": "Capacity for up to 5,000 Worshippers", "description": "Designed to accommodate up to 5,000 worshippers across two floors and one basement." }
+          }
+        },
+        "learning": {
+          "title": "Learning",
+          "items": {
+            "madrasa": { "title": "Six-Storey Madrasa", "description": "A six-storey deeni institute with classrooms, hifz halls and residential facilities." }
+          }
+        },
+        "welfare": {
+          "title": "Community Welfare",
+          "items": {
+            "kitchen": { "title": "Community Kitchen for 1,000 People", "description": "A large-scale kitchen with capacity to prepare meals for up to 1,000 people daily." },
+            "medical": { "title": "Free Medical Facility / Shifa Khana", "description": "A modern shifa khana planned to offer free consultations, medicines and basic treatment.", "status": "Place reserved — not yet operational." }
+          }
+        }
+      }
+    },
+    "cta": {
+      "title": "Help Build Markaz Alburhan",
+      "description": "Your contribution can become a means of sadaqah jariyah by supporting a center dedicated to salah, Quran, tarbiyah, dawah, food service, medical care, and community welfare."
+    }
+  },
+  "events": {
+    "hero": {
+      "eyebrow": "Programs & Gatherings",
+      "title": "Events At Markaz Alburhan",
+      "subtitle": "Spiritual gatherings, Islahi Bayans, educational sessions, Aitekaaf, and community programs organized at Markaz Alburhan.",
+      "imageAlt": "Ijtima gathering at Ghiza ur Rooh"
+    },
+    "stats": {
+      "eventNumber": "6",
+      "events": "Total Events Conducted",
+      "peopleNumber": "3100+",
+      "people": "People Gathered",
+      "programs": "Educational & Islahi Programs",
+      "engagement": "Community Engagement",
+      "description": "Markaz Alburhan has conducted 6 events till now in which over 3,100 people gathered."
+    },
+    "timelineEyebrow": "Events At Markaz Alburhan",
+    "items": {
+      "ghiza": {
+        "label": "Series",
+        "title": "Ghiza ur Rooh",
+        "urdu": "غذاء الروح",
+        "description": "A series of spiritual gatherings and “Islahi Bayans” — reformative lectures hosted by Al-Burhan, an Islamic educational and spiritual institution based in Karachi.",
+        "images": ["Ijtima gathering at Ghiza ur Rooh", "Ijtima gathering at Ghiza ur Rooh", "Ijtima gathering at Ghiza ur Rooh"]
+      },
+      "aitekaaf": {
+        "label": "Spiritual Retreat",
+        "title": "Aitekaaf 2026",
+        "description": "A spiritually uplifting Aitekaaf gathering arranged at Markaz Alburhan, bringing participants together for worship, zikr, learning, and collective iftar / sehri arrangements.",
+        "images": ["Aitekaaf worship session", "Aitekaaf collective dua", "Aitekaaf learning circle"]
+      },
+      "seerat": {
+        "label": "Training Camp",
+        "title": "Seerat Murabbiyeen Camp",
+        "urdu": "اجتماعِ مربیین",
+        "description": "A dedicated training camp for murabbiyeen (mentors and trainers), focused on the Seerat of the Prophet ﷺ — combining tarbiyah sessions, group discussions and practical guidance for those who lead and teach within the community.",
+        "images": ["Seerat Murabbiyeen Camp bayan session", "Seerat Murabbiyeen Camp presentation session", "Seerat Murabbiyeen Camp participants gathered"]
+      },
+      "dopamine": {
+        "label": "Tarbiyah Session",
+        "title": "Dopamine Detox",
+        "description": "A special tarbiyati and self-development session focused on discipline, digital control, focus, and reconnecting with Islamic values.",
+        "images": ["Dopamine Detox tarbiyah session"],
+        "videoPending": "[NEEDS CONTENT FROM CLIENT: dopamine.mp4]"
+      },
+      "closing": {
+        "label": "Ceremony",
+        "title": "Ilm e Deen Batch Closing",
+        "description": "Closing Ceremony Of Batch 9 & 2 Basic Ilm e Deen Course.",
+        "images": ["Ilm e Deen Batch Closing ceremony", "Ilm e Deen Batch Closing ceremony"]
+      }
+    },
+    "cta": {
+      "title": "Be Part of Markaz Alburhan Programs",
+      "description": "Support the construction and development of a center where salah, Quran, tarbiyah, dawah, community service, and educational programs continue for years."
+    }
+  },
+  "projects": {
+    "hero": {
+      "eyebrow": "Future-Ready Facilities",
+      "title": "Our Projects",
+      "subtitle": "Building a center for the ummah.",
+      "imageAlt": "Scale model of the completed campus"
+    },
+    "model": {
+      "eyebrow": "Markaz Alburhan — The Complete Model",
+      "description": "The masjid, the six-storey madrasa and the community facilities together on one campus — the facilities below are the parts that make it up.",
+      "alt": "Markaz Alburhan — The Complete Model"
+    },
+    "facility": "Facility {{number}}",
+    "items": {
+      "kitchen": {
+        "number": "01",
+        "title": "Community Kitchen",
+        "description": "A dedicated kitchen facility to provide warm meals and food support for the surrounding community — especially the needy, orphans and travelers.",
+        "button": "Support This",
+        "images": ["Community Kitchen", "Community Kitchen"]
+      },
+      "masjid": {
+        "number": "02",
+        "title": "Masjid Construction Progress",
+        "description": "Track the ongoing construction of Masjid Alburhan — your contribution funds bricks, cement and the labor that brings this masjid to life.",
+        "button": "Donate Now",
+        "images": ["Masjid Alburhan construction progress", "Masjid Alburhan construction progress", "Masjid Alburhan construction progress"]
+      },
+      "education": {
+        "number": "03",
+        "title": "Education & Dawah Center",
+        "description": "Quran classes, Islamic studies and dawah programs for children and adults — building a generation grounded in knowledge and good character.",
+        "button": "Support This",
+        "images": ["Education and Dawah Center", "Education and Dawah Center", "Education and Dawah Center", "Education and Dawah Center"]
+      },
+      "medical": {
+        "number": "04",
+        "title": "Free Medical Facility",
+        "status": "Place reserved — not yet operational",
+        "description": "A dedicated space has been reserved within Markaz Alburhan for the free medical facility. This shifa khana is not operational yet — once established, it will provide free consultations, medicines and basic treatment for those who cannot afford it, in sha Allah.",
+        "button": "Support This",
+        "images": ["Free Medical Facility reserved space"]
+      }
+    },
+    "cta": {
+      "title": "Help us complete these facilities",
+      "description": "1 Unit = PKR 3,500 — every contribution counts as sadaqah jariyah."
+    }
+  },
+  "donate": {
+    "hero": {
+      "eyebrow": "Sadaqah Jariyah",
+      "title": "Be Part of a Lasting Reward",
+      "subtitle": "Your donation helps build Markaz Alburhan — a masjid, a kitchen, a clinic, and a center for the community.",
+      "urduTitle": "زیر تعمیر مسجد البرہان",
+      "imageAlt": "Masjid Alburhan construction progress"
+    },
+    "bank": {
+      "eyebrow": "Donate Directly",
+      "title": "Bank Account Details",
+      "receipt": "After your transfer, please share the receipt with us on WhatsApp.",
+      "sendReceipt": "Send Receipt on WhatsApp",
+      "call": "Call +92 340 2439670",
+      "ledgerName": "Markaz Alburhan",
+      "rows": [
+        ["Account Title", "Alburhan Trust International"],
+        ["Account No", "03040107135992"],
+        ["IBAN", "PK59MEZN0003040107135992"],
+        ["Bank", "Meezan Bank"],
+        ["Donation Unit", "PKR 3,500 per unit — bricks, cement & labor"]
+      ]
+    },
+    "hadith": {
+      "quote": "“When a person dies, their deeds end except for three: a continuing charity, beneficial knowledge, or a righteous child who prays for them.”",
+      "attribution": "— Sahih Muslim"
+    },
+    "campaign": {
+      "statement": "Every brick you sponsor, every bag of cement, every hour of labor — becomes a part of a place where Allah’s name will be remembered for generations.",
+      "description": "We are currently raising funds for the first roof of Masjid Alburhan. 1 Unit = PKR 3,500. Be part of this sadaqah jariyah."
+    },
+    "how": {
+      "eyebrow": "Donation Details",
+      "title": "How to Donate",
+      "description": "Choose the following channel. After your transfer, please share the receipt on WhatsApp.",
+      "campaignEyebrow": "Current Campaign: First Roof of the Masjid",
+      "campaignDescription": "This fundraising drive is dedicated to constructing the first roof of Masjid Alburhan — your contribution directly funds the slab, beams, bricks, cement and labor for this stage.",
+      "unitEyebrow": "Unit Amount",
+      "unit": "PKR 3,500 per unit",
+      "unitDetail": "(bricks + cement + labor)",
+      "bankEyebrow": "Bank Account",
+      "bankDescription": "All bank, IBAN and account title details are listed at the top of this page for quick access.",
+      "viewBank": "View Bank Details",
+      "whatsappPhone": "WhatsApp: +92 340 2439670",
+      "callPhone": "Call: +92 340 2439670"
+    },
+    "contact": {
+      "eyebrow": "Contact",
+      "title": "Get in Touch",
+      "description": "For donations, queries, or to volunteer — reach out to us anytime.",
+      "address": "Address",
+      "phone": "Phone / WhatsApp",
+      "managerRole": "Masool Muntazima Karachi"
+    },
+    "governance": {
+      "eyebrow": "Governing Body",
+      "title": "Project Under Alburhan International Welfare Trust",
+      "description": "Markaz Alburhan is built and operated under the supervision of Alburhan International Welfare Trust — every contribution is received and utilised through the trust.",
+      "managerRole": "Masool Muntazima Karachi"
+    }
+  }
+}
